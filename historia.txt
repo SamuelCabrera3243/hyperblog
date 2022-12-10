@@ -1,1 +1,3 @@
 esta es un archivo de texto en VS
+Samuel tiene 22 años al momento de hacer 
+el curso de git y github
