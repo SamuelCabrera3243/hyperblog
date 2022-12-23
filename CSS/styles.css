@@ -27,3 +27,8 @@ body{
 #container h1{
     font-size: 20px;
 }
+footer{
+    color: lightcyan;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
